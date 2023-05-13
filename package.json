@@ -1,0 +1,33 @@
+{
+  "name": "xi-icons",
+  "version": "1.0.0",
+  "description": "Build your own icons library for use in your React projects easily",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "rm -rf dist && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiongmao0910/icons.git"
+  },
+  "keywords": [
+    "xi-icons"
+  ],
+  "author": "Hoang Hieu Trung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiongmao0910/icons/issues"
+  },
+  "homepage": "https://github.com/xiongmao0910/icons#readme",
+  "devDependencies": {
+    "@types/node": "^20.1.4",
+    "@types/react": "^18.2.6",
+    "@types/react-dom": "^18.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
