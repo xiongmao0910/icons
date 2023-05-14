@@ -16,7 +16,7 @@ export const XiAllIcon = () => {
 };
 export const XiIcon = (_a) => {
     var { name } = _a, props = __rest(_a, ["name"]);
-    return (React.createElement("svg", Object.assign({}, props),
+    return (React.createElement("svg", Object.assign({ width: "24", height: "24", viewBox: "0 0 24 24", xmlns: "http://www.w3.org/2000/svg" }, props),
         React.createElement("use", { xlinkHref: `#${name}` })));
 };
 //# sourceMappingURL=Icon.js.map
