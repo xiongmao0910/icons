@@ -1,6 +1,6 @@
 {
   "name": "xi-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build your own icons library for use in your React projects easily",
   "main": "src/index.ts",
   "scripts": {
